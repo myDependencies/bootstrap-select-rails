@@ -126,6 +126,9 @@
   position: relative;
   padding-left: 2.25em;
 }
+.bootstrap-select.btn-group .dropdown-menu li a span.check-mark:before {
+  font-size: 1em;
+}
 .bootstrap-select.btn-group .dropdown-menu li a span.check-mark {
   display: none;
 }
